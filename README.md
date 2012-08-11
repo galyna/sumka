@@ -1,0 +1,4 @@
+sumka
+=====
+
+sumks.pp1
